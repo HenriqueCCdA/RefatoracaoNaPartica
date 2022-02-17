@@ -1,3 +1,3 @@
 # RefatoracaoNaPratica
 
-Repositório do curso refratoração na prática do Henrique Bastos
+Repositório do curso refatoração na prática do Henrique Bastos
